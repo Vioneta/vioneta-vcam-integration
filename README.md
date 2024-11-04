@@ -1,7 +1,7 @@
 <!-- markdownlint-disable first-line-heading -->
 <!-- markdownlint-disable no-inline-html -->
 
-[![GitHub Release](https://img.shields.io/github/release/blakeblackshear/vcam-vioneta-integration.svg?style=flat-square)](https://github.com/blakeblackshear/vcam-vioneta-integration/releases)
+[![GitHub Release](https://img.shields.io/github/release/Vioneta/vcam-vioneta-integration.svg?style=flat-square)](https://github.com/Vioneta/vcam-vioneta-integration/releases)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/Vioneta/vcam-vioneta-integration/build.yaml?branch=master&style=flat-square)](https://github.com/Vioneta/vcam-vioneta-integration/actions/workflows/build.yaml)
 [![Test Coverage](https://img.shields.io/codecov/c/gh/Vioneta/vcam-vioneta-integration?style=flat-square)](https://app.codecov.io/gh/Vioneta/vcam-vioneta-integration/)
 [![License](https://img.shields.io/github/license/Vioneta/vcam-vioneta-integration.svg?style=flat-square)](LICENSE)
