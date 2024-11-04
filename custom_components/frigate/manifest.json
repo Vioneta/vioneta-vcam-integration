@@ -1,0 +1,12 @@
+{
+  "domain": "frigate",
+  "name": "VCam",
+  "codeowners": ["@Vioneta"],
+  "config_flow": true,
+  "dependencies": ["http", "media_source", "mqtt"],
+  "documentation": "https://github.com/Vioneta/vcam",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/Vioneta/vcam-vioneta-integration/issues",
+  "requirements": ["pytz"],
+  "version": "5.4.0"
+}
